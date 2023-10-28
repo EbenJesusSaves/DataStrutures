@@ -5,4 +5,4 @@
 //arrays are best for finding item at their indexes which mostly have O(1)
 
 
-
+//context tells you where you're code is written 
