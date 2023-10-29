@@ -7,3 +7,7 @@ const backwardsString = (string) => {
     stringArray.join('')
     return stringArray
 }
+
+const stringRev = (params) => {
+    const length = params.length
+}
