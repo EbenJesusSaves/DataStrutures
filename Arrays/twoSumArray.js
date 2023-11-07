@@ -1,3 +1,4 @@
+//this does not work always as expected
 const twoSum = function (nums = [], target) {
     let i
     for (i = 0; i < nums.length; i++) {
